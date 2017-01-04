@@ -1,0 +1,3 @@
+[submodule "EnableInterrupt"]
+	path = EnableInterrupt
+	url = https://github.com/GreyGnome/EnableInterrupt
